@@ -20,7 +20,7 @@
 │
 └──📁 data/                     # 保存データ
  	├── health_profiles.json
-    └── nutrition_targets.csv
+  └── nutrition_targets.csv
 
 
 ## ✅ 使用技術
